@@ -1,0 +1,128 @@
+{
+  "dario": {
+    "username": "dario",
+    "password": "titanometano",
+    "logged": true,
+    "score": 1.3333334,
+    "stats": {
+      "partite": 4,
+      "vittorie": 2,
+      "win_rate": 50.0,
+      "current_win_streak": 2,
+      "max_win_streak": 2,
+      "attempts_to_win": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        50.0,
+        50.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 3
+    }
+  },
+  "mario": {
+    "username": "mario",
+    "password": "rossi",
+    "logged": true,
+    "score": 1.4545455,
+    "stats": {
+      "partite": 6,
+      "vittorie": 4,
+      "win_rate": 66.66667,
+      "current_win_streak": 1,
+      "max_win_streak": 3,
+      "attempts_to_win": [
+        1,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        25.0,
+        25.0,
+        0.0,
+        50.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 11
+    }
+  },
+  "luigi": {
+    "username": "luigi",
+    "password": "bianchi",
+    "logged": true,
+    "score": 1.0,
+    "stats": {
+      "partite": 2,
+      "vittorie": 1,
+      "win_rate": 50.0,
+      "current_win_streak": 0,
+      "max_win_streak": 1,
+      "attempts_to_win": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 1
+    }
+  }
+}
